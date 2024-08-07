@@ -27,7 +27,7 @@ This Python script performs DNS lookups and subdomain discovery for a given doma
 
 2. Install the required packages:
     ```sh
-    pip install dnspython requests
+    pip install -r requirements.txt
     ```
 
 ## Usage
