@@ -1,6 +1,6 @@
 # zdumpster
 # DNS and Subdomain Discovery Tool
-This Project ist a Collaboration between skidpaladin (https://github.com/skidpaladin) and me 
+This Project ist a Collaboration between skidpaladin (https://github.com/skidpaladin) and 0xb0mb3r (https://github.com/0xb0mb3r). 
 
 This Python script performs DNS lookups and subdomain discovery for a given domain. It retrieves DNS records, IP addresses, and subdomains using the `lookup.segfault.net` API.
 
