@@ -1,5 +1,6 @@
 # z_dumpster
 # DNS and Subdomain Discovery Tool
+This Project ist a Collaboration between skidshogun (https://github.com/skidshogun) and me 
 
 This Python script performs DNS lookups and subdomain discovery for a given domain. It retrieves DNS records, IP addresses, and subdomains using the `lookup.segfault.net` API.
 
