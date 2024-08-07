@@ -1,4 +1,4 @@
-# z_dumpster
+# zdumpster
 # DNS and Subdomain Discovery Tool
 This Project ist a Collaboration between skidshogun (https://github.com/skidshogun) and me 
 
