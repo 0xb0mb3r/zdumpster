@@ -21,8 +21,8 @@ This Python script performs DNS lookups and subdomain discovery for a given doma
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/dns-subdomain-discovery.git
-    cd dns-subdomain-discovery
+    git clone https://github.com/0xb0mb3r/z_dumpster.git
+    cd z_dumpster
     ```
 
 2. Install the required packages:
