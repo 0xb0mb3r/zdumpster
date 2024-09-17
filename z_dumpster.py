@@ -69,7 +69,7 @@ def main():
         
         print(f"\nSubdomains found for {domain}:\n")
         for subdomain in subdomains:
-            print(f"| Subdomain | {subdomain} |")
+            print(f"| {subdomain} |")
 
 if __name__ == "__main__":
     main()
